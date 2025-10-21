@@ -1,7 +1,7 @@
 # 🏥 Medical Clinic SQL Project
 
 This project was developed to practice **database modeling** and **SQL queries** using **PostgreSQL**.  
-It simulates a medical clinic system with data on patients, doctors, specializations, and appointments.
+It simulates a medical clinic system with data on patients, doctors, specializations, appointments and treatments.
 
 ---
 
@@ -18,7 +18,8 @@ The goal is to demonstrate understanding of data modeling, table relationships, 
 - **Patients** – personal information, contact, and address  
 - **Doctors** – name, specialization, and contact details  
 - **Specializations** – types of medical specialties  
-- **Appointments** – date, reason, patient, doctor, and status  
+- **Appointments** – date, reason, patient, doctor, and status
+- **Treatments** – medicines and prescriptions
 
 ---
 
