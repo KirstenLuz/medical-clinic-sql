@@ -32,7 +32,9 @@ medical-clinic-sql/
 
 │ ├── 02_insert_data.sql
 
-│ └── 03_queries.sql
+│ └── 03_insert_data_II.sql
+
+│ └── 04_queries.sql
 
 ├── docs/ # Diagrams and documentation (e.g., ER diagram)
 
