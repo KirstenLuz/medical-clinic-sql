@@ -31,7 +31,9 @@ medical-clinic-sql/
 ├── sql/ # SQL scripts: table creation, data inserts, queries
 
 │ ├── 01_create_tables.sql
+
 │ ├── 02_insert_data.sql
+
 │ └── 03_queries.sql
 
 ├── docs/ # Diagrams and documentation (e.g., ER diagram)
