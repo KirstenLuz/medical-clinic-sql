@@ -25,12 +25,17 @@ The goal is to demonstrate understanding of data modeling, table relationships, 
 ## 📁 Project Structure
 medical-clinic-sql/
 │
+
 ├── data/ # Sample CSV files for patients, doctors, appointments
+
 ├── sql/ # SQL scripts: table creation, data inserts, queries
+
 │ ├── 01_create_tables.sql
 │ ├── 02_insert_data.sql
 │ └── 03_queries.sql
+
 ├── docs/ # Diagrams and documentation (e.g., ER diagram)
+
 └── README.md
 
 
@@ -51,8 +56,11 @@ medical-clinic-sql/
 ```bash
 git clone https://github.com/SEU_USUARIO/medical-clinic-sql.git
 cd medical-clinic-sql
+```
 
 2. Run the SQL scripts in order:
+```bash
 psql -U <username> -d <database> -f sql/01_create_tables.sql
 psql -U <username> -d <database> -f sql/02_insert_data.sql
 psql -U <username> -d <database> -f sql/03_queries.sql
+```
