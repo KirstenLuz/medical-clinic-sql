@@ -26,8 +26,6 @@ The goal is to demonstrate understanding of data modeling, table relationships, 
 medical-clinic-sql/
 │
 
-├── data/ # Sample CSV files for patients, doctors, appointments
-
 ├── sql/ # SQL scripts: table creation, data inserts, queries
 
 │ ├── 01_create_tables.sql
