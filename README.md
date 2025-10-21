@@ -1,18 +1,18 @@
-# 🏥 Medical Clinic SQL Project
+# Medical Clinic SQL Project
 
 This project was developed to practice **database modeling** and **SQL queries** using **PostgreSQL**.  
 It simulates a medical clinic system with data on patients, doctors, specializations, appointments and treatments.
 
 ---
 
-## 🧩 Objective
+## Objective
 
 Design a relational database to manage a clinic's core information, ensuring data consistency and enabling analysis through SQL queries.  
 The goal is to demonstrate understanding of data modeling, table relationships, and the creation of efficient queries.
 
 ---
 
-## 🧱 Database Structure
+## Database Structure
 
 **Main Entities:**
 - **Patients** – personal information, contact, and address  
@@ -23,7 +23,7 @@ The goal is to demonstrate understanding of data modeling, table relationships, 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 medical-clinic-sql/
 │
 
@@ -44,7 +44,7 @@ medical-clinic-sql/
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **PostgreSQL** – database management  
 - **SQL** – table creation, data insertion, queries, indexes  
@@ -53,7 +53,7 @@ medical-clinic-sql/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:  
 ```bash
